@@ -4,5 +4,5 @@ elements.my_element = {
     category: "powders",
     state: "solid",
     density: 1000,
+    name: "My Element"
 };
-
